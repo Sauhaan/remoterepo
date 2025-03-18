@@ -1,12 +1,3 @@
-# 🌟 My Awesome Project
-
-## 📌 Description
-
-This project is a simple demonstration of basic HTML and CSS, showcasing how to create a styled webpage with interactive elements. It provides a foundation for more complex web development projects and serves as a learning tool for beginners.
-
-## 🎨 Demo Preview (HTML & CSS)
-
-Here is a simple **HTML & CSS** snippet from the project:
 
 <!DOCTYPE html>
 <html lang="en">
